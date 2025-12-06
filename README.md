@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dilukshan16&label=Profile%20views&color=0e75b6&style=flat" alt="Dilukshan16" /> </p>
 
-- 🌱 I’m currently learning Bsc(hons) computing**
+- 🌱 I’m currently learning Bsc(hons) computing
 
 - 📫 How to reach me *pdiluksan@gmail.com*
 
@@ -25,8 +25,7 @@
     alt="Dilukshan16" 
     bg_color=#808080/></p>
 </br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dilukshan16&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="ShashiKalum11" /></p>
+
 
 <br>
 
