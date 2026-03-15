@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dilukshan16&label=Profile%20views&color=0e75b6&style=flat" alt="Dilukshan16" /> </p>
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=Dilukshan16&label=Profile%20views&color=0e75b6&style=flat](https://dilukshanpushparajah.me/)" alt="Dilukshan Pushparajah" /> </p>
+
 
 - 🌱 I’m currently learning Bsc(hons) computing
 
@@ -36,3 +36,4 @@
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>  -->
 
 [Dilukshan16](https://github.com/Dilukshan16)
+[Dilukshan Pushparajah](https://dilukshanpushparajah.me/)
